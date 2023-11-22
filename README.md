@@ -5,7 +5,9 @@ This is the American version of the ZX81+38 (revision 1.10), it is nearly identi
 
 The .zip file "Kicad files for TS1000plus41.zip" contains all the necessary Kicad files, so you can create your own version of the TS1000+41. 
 
-the file TS1000plus41.pdf is the schematic, which is nearly identical to the schematic of the ZX81+38 (revision 1.10) 
+the file Schematic TS1000 rev1,0.pdf is the schematic, which is nearly identical to the schematic of the ZX81+38 (revision 1.10) 
+
+The file TS1000_rev_1.0_component_placement is the drawing (..PNG file) that is modified so that it shows the new locations of the RCA connector and crystal oscillator parts.
 
 The .zip file "production files for TZ1000plus41 rev 1.0.zip" contains the gerber and drill files necessary to create A PCB for the TS1000+41. You can silply upload the .zip file to a PCB manufacturer like PCBWay. Its possible someone else has done this and got 5 PCB's, four of which he does not need and wants to re-sell, so it might be an option to try to find such a reseller.
 
